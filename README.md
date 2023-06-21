@@ -17,7 +17,7 @@
 ![Programming_for_Data_Science](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/91005136-4b2e-456c-86a7-f1cbbfd5eeb7.svg)
 ---
 ## `Python for Everybody`
-![Python](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~384PRBPPUTFQ/CERTIFICATE_LANDING_PAGE~384PRBPPUTFQ.jpeg)
+![Python](https://github.com/dell-datascience/Certificates-of-completion/blob/main/Python_for_Everybody/Python_for_Everybody.png)
 ---
 ## `Introduction to Datascience in Python`
 ![Intro_data_science](https://coursera-certificate-images.s3.amazonaws.com/RCEUKV3JG5WT)
